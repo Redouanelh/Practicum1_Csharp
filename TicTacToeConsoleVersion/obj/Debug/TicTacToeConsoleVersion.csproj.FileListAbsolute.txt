@@ -1,0 +1,10 @@
+C:\Users\Redou\source\repos\Practicums\TicTacToeConsoleVersion\bin\Debug\TicTacToeConsoleVersion.exe.config
+C:\Users\Redou\source\repos\Practicums\TicTacToeConsoleVersion\bin\Debug\TicTacToeConsoleVersion.exe
+C:\Users\Redou\source\repos\Practicums\TicTacToeConsoleVersion\bin\Debug\TicTacToeConsoleVersion.pdb
+C:\Users\Redou\source\repos\Practicums\TicTacToeConsoleVersion\bin\Debug\TicTacToeEngine.dll
+C:\Users\Redou\source\repos\Practicums\TicTacToeConsoleVersion\bin\Debug\TicTacToeEngine.pdb
+C:\Users\Redou\source\repos\Practicums\TicTacToeConsoleVersion\obj\Debug\TicTacToeConsoleVersion.csprojAssemblyReference.cache
+C:\Users\Redou\source\repos\Practicums\TicTacToeConsoleVersion\obj\Debug\TicTacToeConsoleVersion.csproj.CoreCompileInputs.cache
+C:\Users\Redou\source\repos\Practicums\TicTacToeConsoleVersion\obj\Debug\TicTacToeConsoleVersion.csproj.CopyComplete
+C:\Users\Redou\source\repos\Practicums\TicTacToeConsoleVersion\obj\Debug\TicTacToeConsoleVersion.exe
+C:\Users\Redou\source\repos\Practicums\TicTacToeConsoleVersion\obj\Debug\TicTacToeConsoleVersion.pdb

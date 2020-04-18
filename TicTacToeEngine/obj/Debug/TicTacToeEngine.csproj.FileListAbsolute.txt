@@ -1,0 +1,6 @@
+C:\Users\Redou\source\repos\Practicums\TicTacToeEngine\bin\Debug\TicTacToeEngine.dll
+C:\Users\Redou\source\repos\Practicums\TicTacToeEngine\bin\Debug\TicTacToeEngine.pdb
+C:\Users\Redou\source\repos\Practicums\TicTacToeEngine\obj\Debug\TicTacToeEngine.csproj.CoreCompileInputs.cache
+C:\Users\Redou\source\repos\Practicums\TicTacToeEngine\obj\Debug\TicTacToeEngine.dll
+C:\Users\Redou\source\repos\Practicums\TicTacToeEngine\obj\Debug\TicTacToeEngine.pdb
+C:\Users\Redou\source\repos\Practicums\TicTacToeEngine\obj\Debug\TicTacToeEngine.csprojAssemblyReference.cache
