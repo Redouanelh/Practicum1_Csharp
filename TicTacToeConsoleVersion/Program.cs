@@ -45,7 +45,6 @@ namespace TicTacToeConsoleVersion
 
                 // Check of iemand wint/of er gelijk is gespeelt. Zoja, verander status
                 t.CheckForStatusChange();
-
                 if (t.status.Equals(GameStatus.Equal) || t.status.Equals(GameStatus.PlayerOWins) || t.status.Equals(GameStatus.PlayerXWins)) { break; }
             }
 

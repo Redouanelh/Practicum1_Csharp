@@ -37,7 +37,7 @@ namespace TicTacToeEngine
                 return false;
             } else
             {
-                // check status om te zien welke letter
+                // check status om te zien welke letter wordt gezet
                 if (this.status.Equals(GameStatus.PlayerOPlays))
                 {
                     this.current_board[cell - 1] = 'O';
