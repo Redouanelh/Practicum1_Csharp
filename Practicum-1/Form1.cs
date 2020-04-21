@@ -26,13 +26,13 @@ namespace Practicum_1
         private void button_Click(object sender, EventArgs e)
         {
             Button button = (Button)sender;
-            int cell_number = int.Parse(button.Name.Substring(button.Name.Length - 1));
+            int cell_number = int.Parse(button.Name.Substring(button.Name.Length - 1)); // Nummer van button
 
             // PlayerO begint met zijn/haar beurt
             if (t.status.Equals(GameStatus.PlayerOPlays))
             {
                 t.ChooseCell(cell_number);
-                button.Text = "O"; // Zet de zet op de juiste plek
+                button.Text = "O"; // Zet de O/X op de juiste plek
                 button.Enabled = false; // Zorgt ervoor dat niemand meer op die button een zet kan plaatsen
 
                 this.label2.Text = "PlayerX aan zet..."; // Past label aan op basis van wie aan de beurt is
@@ -66,7 +66,7 @@ namespace Practicum_1
                 }
             }
 
-            this.label3.Hide(); // Verstopt 't eindbericht weer
+            this.label3.Hide(); // Verstopt 't eindbericht (als die er is)
 
             this.label2.Show(); // Toont weer de label met de zetten
             this.label2.Text = "PlayerO aan zet..."; // Spel begint opnieuw, en PlayerO begint altijd
@@ -75,16 +75,16 @@ namespace Practicum_1
 
         private void buttonQuit_Click(object sender, EventArgs e)
         {
-            this.Close();
+            this.Close(); // Sluit de game
         }
 
-        private void disableBoardAfterWin() // Disabled all buttons op het spelbord nadat er iemand heeft gewonnen.
+        private void disableBoardAfterWin() // Disabled all buttons op het spelbord nadat er iemand heeft gewonnen/gelijk is gespeeld
         {
             foreach (Control c in this.Controls)
             {
                 if (c is Button && c.Name != "button10" && c.Name != "button11") // button10 en button11 zijn de Quit en Restart buttons
                 {
-                    c.Enabled = false; // Maakt de button weer enabled zodat je weer erop kunt klikken
+                    c.Enabled = false; // Maakt de button disabled zodat er niet meer een zet kan worden geplaatst
                 }
             }
 

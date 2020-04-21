@@ -71,7 +71,7 @@ namespace TicTacToeConsoleVersion
             {
                 Console.Clear();
 
-                t.Reset(); // Is dit wel nodig? Want de methode hieronder restart het ook?
+                t.Reset(); // Is dit wel nodig? Want de methode hieronder restart het ook? Deze methode lijkt mij alleen nodig in de GUI
                 TicTacToeConsoleGame();
             }
         }
