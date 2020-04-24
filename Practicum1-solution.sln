@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30002.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practicum-1", "Practicum-1\Practicum-1.csproj", "{86CC9174-5B29-4057-8860-AC09C7FD8DE8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToeForm", "Practicum-1\TicTacToeForm.csproj", "{86CC9174-5B29-4057-8860-AC09C7FD8DE8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToeEngine", "TicTacToeEngine\TicTacToeEngine.csproj", "{8A95C26E-BF82-4645-BC44-C80A72B730A4}"
 EndProject

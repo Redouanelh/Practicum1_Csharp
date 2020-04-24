@@ -1,0 +1,13 @@
+C:\Users\Redou\source\repos\Practicum1\Practicum-1\bin\Debug\Practicum-1.exe.config
+C:\Users\Redou\source\repos\Practicum1\Practicum-1\bin\Debug\Practicum-1.exe
+C:\Users\Redou\source\repos\Practicum1\Practicum-1\bin\Debug\Practicum-1.pdb
+C:\Users\Redou\source\repos\Practicum1\Practicum-1\bin\Debug\TicTacToeEngine.dll
+C:\Users\Redou\source\repos\Practicum1\Practicum-1\bin\Debug\TicTacToeEngine.pdb
+C:\Users\Redou\source\repos\Practicum1\Practicum-1\obj\Debug\TicTacToeForm.csprojAssemblyReference.cache
+C:\Users\Redou\source\repos\Practicum1\Practicum-1\obj\Debug\Practicum_1.Form1.resources
+C:\Users\Redou\source\repos\Practicum1\Practicum-1\obj\Debug\Practicum_1.Properties.Resources.resources
+C:\Users\Redou\source\repos\Practicum1\Practicum-1\obj\Debug\TicTacToeForm.csproj.GenerateResource.cache
+C:\Users\Redou\source\repos\Practicum1\Practicum-1\obj\Debug\TicTacToeForm.csproj.CoreCompileInputs.cache
+C:\Users\Redou\source\repos\Practicum1\Practicum-1\obj\Debug\TicTacToeForm.csproj.CopyComplete
+C:\Users\Redou\source\repos\Practicum1\Practicum-1\obj\Debug\Practicum-1.exe
+C:\Users\Redou\source\repos\Practicum1\Practicum-1\obj\Debug\Practicum-1.pdb
